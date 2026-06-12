@@ -1,9 +1,0 @@
-{
-  "name": "prajeeth-raaj-portfolio",
-  "version": "1.0.0",
-  "description": "Portfolio website for Prajeeth Raaj PK, Founder of Benzson Tecnologia",
-  "scripts": {
-    "start": "npx serve ."
-  },
-  "private": true
-}
